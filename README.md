@@ -9,10 +9,19 @@ permite a usuarios y colaboradores del proyecto entender el contexto y operació
 Para poder realizar una buena documentación del proyecto debemos, distribuir correctamente los contenidos,
 para poder delimitar o hacer énfasis(enfatizar), es decir, resaltar las secciones importantes, podemos utilizar los siguientes:
 
-# Encabezadis de Nivel 1- Similar a H1 en HTML
+# Encabezados de Nivel 1- Similar a H1 en HTML
 ## Encabezados de Nivel 2 - Similar a H2 en HTML
 ### Encabezados de Nivel 3 - Similar a H3 en HTML
 #### Encabezados de Nivel 4 - Similar a H4 en HTML
 ##### Encabezados de Nivel 5 - Similar a H5 en HTML
 ###### Encabezaos de Nivel 6 - Similar a H6 en HTML
 ####### Encabezados de Nivel 7 - Solo 6 son los niveles permitidos, a partir de este el maquetado será ignorado. s
+
+### 2.Separadores (SEPARATORS)
+Si desea marcar una separación  más visual de contenidos podemos utilizarlos indicando tres caracteres de "-" continuos,
+en el maquetado
+
+EJEMPLO:
+---
+
+*Esto es símilar a un tag de <HR> en HTML.

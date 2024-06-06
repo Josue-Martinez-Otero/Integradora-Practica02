@@ -70,7 +70,7 @@ Continuamos con los comandos basicos de Git y Github para el enmaquetado de la d
 
 
 Estos elementos son utilizados para resaltar instrucciones específicas para la instalación, configuración y/o inicialización o mostrar secciones de código fuerte. Se ,aqueta iniciando el texto con un símbolo de 
-mayor que((/>)
+mayor que((\>)
 
 
 **EJEMPLO**
@@ -95,7 +95,8 @@ Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter
  **EJEMPLO:**
   **Pasos para Instalar la Base de Datos:**
    >- Descarga MySQL Server del Sitio Oficial
->   - Instalar el Sistema Gestor de Base de Datos, definiendo el puerto y contraseña para el usuario ***root***
->   - Descargamos el archivo de resplado de la base de datos (.sql)
->   - Restauramos la Base de Datos usando el comando *mysql*
->> C:/Program Files/MySQL/MySQL Server 8.0/bin/mysql -u root -p password < respaldo.sql
+   >- Instalar el Sistema Gestor de Base de Datos, definiendo el puerto y contraseña para el usuario ***root***
+   >- Descargamos el archivo de resplado de la base de datos (.sql)
+   >- Restauramos la Base de Datos usando el comando *mysql*
+>> C:/Program Files/MySQL/MySQL Server 8.0/bin/mysql -u root -p password \<
+   respaldo.sql

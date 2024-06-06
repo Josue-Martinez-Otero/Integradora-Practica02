@@ -60,3 +60,21 @@ Para poder el texto en negrita, este debera ser encerrado entre**
 EJEMPLO:
 
 **Texto importante**TextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTexto
+
+
+
+# Integradora-Practica03
+Continuamos con los comandos basicos de Git y Github para el enmaquetado de la documentación
+
+### 5. Cuadros para código o Reseñas (BLOCKQUOTES)
+
+
+Estos elementos son utilizados para resaltar instrucciones específicas para la instalación, configuración y/o inicialización o mostrar secciones de código fuerte. Se ,aqueta iniciando el texto con un símbolo de 
+mayor que((/>)
+
+
+**EJEMPLO**
+Para listar las carpetas y archivos en desde una terminal operativo Windows debemos ingresar el comando: 
+
+> C:/dir
+Despues oprimimos la tecla "Enter".

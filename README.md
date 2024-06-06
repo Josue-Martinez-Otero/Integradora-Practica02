@@ -77,4 +77,25 @@ mayor que((/>)
 Para listar las carpetas y archivos en desde una terminal operativo Windows debemos ingresar el comando: 
 
 > C:/dir
+
 Despues oprimimos la tecla "Enter".
+
+También podemos ingresar texto mulltilínea 
+
+**EJEMPLO**
+
+>Aqui se ingresan un conjunto de instrucciones
+>Para explicar al usuario, cómo instalar el
+>software que hemos diseñado.
+
+Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter 
+- dentro del texto a documentar.
+
+
+ **EJEMPLO:**
+  **Pasos para Instalar la Base de Datos:**
+   >- Descarga MySQL Server del Sitio Oficial
+>   - Instalar el Sistema Gestor de Base de Datos, definiendo el puerto y contraseña para el usuario ***root***
+>   - Descargamos el archivo de resplado de la base de datos (.sql)
+>   - Restauramos la Base de Datos usando el comando *mysql*
+>> C:/Program Files/MySQL/MySQL Server 8.0/bin/mysql -u root -p password < respaldo.sql

@@ -243,5 +243,4 @@ parentesis.
 
 **EJEMPLO:**
 
-![Pikachu](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.3djuegos.lat%2Fcine-y-tv%2Fpokemon-capitan-pikachu-estara-regreso-nuevo-anime-como-parte-par-personajes-protagonistas-recien-revelados&psig=AOvVaw1XB8S6sdn9ULfhd0PlYyed&ust=1718401189115000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjcoLXF2YYDFQAAAAAdAAAAABAp)
-
+![LINUX](https://github.com/Josue-Martinez-Otero/Integradora-Practica02/blob/main/ospic-1.jpg)

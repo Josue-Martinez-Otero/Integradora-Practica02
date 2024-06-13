@@ -150,8 +150,8 @@ Cómo Incluir Imágenes en un Repositorio de GitHub deberas:
    - **Opción 1:** Arrastra y suelta tu imagen en el área de carga. Añade un mensaje de commit y haz clic en "Commit changes" y mandalo a llamar.
    - **Opción 2:** Usar la Línea de Comandos coloca la imagen en el directorio de tu repositorio local. Agregar la Imagen al Stage: Usa el comando git add para 
     agregar la imagen:   ruta/tucuenta/repocitorio/imagen.png.
-    >- Puedes referenciar o poner un mensaje con ![].
-    >-Obligatoriamente el hipervinculo debera ir en ().
+    >- Puedes referenciar o poner un mensaje con ![  ].
+    >- Obligatoriamente el hipervinculo debera ir en ( / / ).
   3. Guardar los cambios.
 
 **EJEMPLO:**  

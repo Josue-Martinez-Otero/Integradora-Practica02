@@ -137,3 +137,9 @@ Documentación creada por: ***Alumno Josue Atlai Martinez Otero***
 <josueotero890@gmail.com>
 
 <http://www.utxicotepec.edu.mx>
+
+### 8. Imagenes
+una imagen es un archivo gráfico que puedes incluir en tu repositorio para ilustrar, documentar o mejorar la comprensión de tu proyecto. Estas imágenes pueden ser de diferentes formatos como .png, .jpg, .gif, etc. Las imágenes son útiles para proporcionar diagramas, capturas de pantalla, gráficos, y otros elementos visuales que complementen la información textual en tus archivos de documentación.
+
+
+

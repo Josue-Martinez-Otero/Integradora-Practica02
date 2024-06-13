@@ -138,7 +138,7 @@ Documentación creada por: ***Alumno Josue Atlai Martinez Otero***
 
 <http://www.utxicotepec.edu.mx>
 
-### 8. Imagenes
+### 9. Imágenes
 una imagen es un archivo gráfico que puedes incluir en tu repositorio para ilustrar, documentar o mejorar la comprensión de tu proyecto. Estas imágenes pueden ser de diferentes formatos como .png, .jpg, .gif, etc. Las imágenes son útiles para proporcionar diagramas, capturas de pantalla, gráficos, y otros elementos visuales que complementen la información textual en tus archivos de documentación.
 
 **EJEMPLO:**
@@ -158,7 +158,7 @@ Cómo Incluir Imágenes en un Repositorio de GitHub deberas:
 Mi imagen favorita es ![LINUX](https://github.com/Josue-Martinez-Otero/Integradora-Practica02/blob/main/ospic-1.jpg)
 
 
-#### 9.Tablas(TABLES)
+#### 8.Tablas(TABLES)
 
 Si la documentación lo requiere podemos presentar información en formato de tablas con filas y 
 columnas, para maquetarlas podemos utilizar el carácter \|para delimitar las columnas y \- para 
@@ -197,9 +197,51 @@ para las celdas, y en ellos utilizar la propiedad de *colspan* y *rowspan*
    <tr>
       <th>Encabezado 1</th>
       <th>Encabezado 2</th>
-      <th>Encabezadi 3</th>
+      <th>Encabezado 3</th>
    </tr>
+   <tr>
+      <td>Fila 1 Celda 1</td>
+      <td>Fila 1 Celda 2</td>
+      <td>Fila 1 Celda 3</td>
+      <td>Fila 1 Celda 4</td>    
+   </tr>
+  <tr>
+    <td>Fila 2 Celda 1</td>
+    <td colspan=3 align="center">Fila 2 Celda 2</td>
+  </tr>
+   <tr>
+     <td rowspan=3>Fila 3 Celda 1</td>
+      <td>Fila 3 Celda 2</td>
+      <td>Fila 3 Celda 3</td>
+      <td>Fila 3 Celda 4</td>
+   </tr>
+
+  <tr>
+    <td>Fila 4 Celda 2</td>
+    <td>Fila 4 Celda 3</td>
+    <td>Fila 4 Celda 4</td>
+  </tr>
+  <tr>
+    <td>Fila 5 Celda 2</td>
+    <td>Fila 5 Celda 3</td>
+   <td>Fila 5 Celda 4</td>
+  </tr>
+  <tr>
+    <td>Fila 6 Celda 1</td>
+    <td>Fila 6 Celda 2</td>
+    <td>Fila 6 Celda 3</td>
+   <td>Fila 6 Celda 4</td>
+  </tr>
 </table>
 
+### 9. Imágenes
 
+Si la documentación requiere de incorporar imágenes, esquemas, modelos, fotografías, o cualquier 
+representación gráfica, utilizaremos la estructura de las ligas, maquetando el nombre de la imagen
+entre corchetes con un signo de admiración de cierre y la liga de referencia a la imagen usando 
+parentesis.
+
+**EJEMPLO:**
+
+!(Pikachu)[]
 

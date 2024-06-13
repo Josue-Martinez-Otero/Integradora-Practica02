@@ -158,7 +158,7 @@ Cómo Incluir Imágenes en un Repositorio de GitHub deberas:
 Mi imagen favorita es ![LINUX](https://github.com/Josue-Martinez-Otero/Integradora-Practica02/blob/main/ospic-1.jpg)
 
 
-#### 8.Tablas(TABLES)
+### 8. Tablas(TABLES)
 
 Si la documentación lo requiere podemos presentar información en formato de tablas con filas y 
 columnas, para maquetarlas podemos utilizar el carácter \|para delimitar las columnas y \- para 

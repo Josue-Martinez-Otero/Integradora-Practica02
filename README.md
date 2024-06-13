@@ -156,5 +156,5 @@ Cómo Incluir Imágenes en un Repositorio de GitHub deberas:
   3. Guardar los cambios.
 
 **EJEMPLO:**  
-Mi imagen favorita es ![LINUX](https://github.com/a/Josue-Martinez-Otero/ospic-1.jpg)
+Mi imagen favorita es ![LINUX](https://github.com/Josue-Martinez-Otero/Integradora-Practica02/blob/main/ospic-1.jpg)
 
